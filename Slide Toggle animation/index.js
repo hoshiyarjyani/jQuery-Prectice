@@ -1,4 +1,4 @@
 $("button").on("click",function () {
-  $("h1").toggle();
+  $("h1").slideToggle();
 });
 
